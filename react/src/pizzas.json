@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kokin eka pizza",
+    "description": "Tämä ei ole mikä tahansa pizza, vaan kokin eka pizza, ymmärrätkö?",
+    "toppings": "Oliivi, Parsa, Kananmuna ja Ananas",
+    "image": "https://i.imgur.com/QZ7hVHW.jpg",
+    "thumbnail": "https://i.imgur.com/OgtYMJ6.jpg"
+  },
+  {
+    "name": "Yliannostus",
+    "description": "Tämä herkku ei jätä nälkäiseksi. Jo ennen laatikon avaamista sieraimiisi leijahtelee herkullinen kerman tuoksu jonka viimeistelee suolaisella suukollaan liuoksessa muhineet kurkut.",
+    "toppings": "Feta, Kerma, Kermaperunat, Kananmuna, Suolakurkku ja Pippurikastike",
+    "image": "https://i.imgur.com/jdvJALh.jpg",
+    "thumbnail": "https://i.imgur.com/YHd7uBb.jpg"
+  },
+  {
+    "name": "Pupu15",
+    "description": "Kyseessä ei ole suinkaan pupun lihalla päällystetty lätty, vaan itse Pupu15 kustomoitu annos. Pupu15 itse kuvaili pizzaa näin: \"Tää on syötävää\"",
+    "toppings": "Rucola, Kinkku, Kurkkumajoneesi ja Pesto",
+    "image": "https://i.imgur.com/Poudy5A.jpg",
+    "thumbnail": "https://i.imgur.com/eBJyQJJ.jpg"
+  },
+  {
+    "name": "Auringonnousu",
+    "description": "Tiedätkö sen tunteen kun auringonnousun aikaan heräät ja päähän jomottaa. Taisi eilen tulla juotua jotain vettä vahvempaa? Vaan ei huolta, tämä jos mikä vie jomotuksen mennessään. Kyseessä on siis suorastaan krapulan tappaja!",
+    "toppings": "Parsa, Turkinpippuri (Jalapeno), Valkosipulimajoneesi ja Suolakurkku",
+    "image": "https://i.imgur.com/RCgWHwh.jpg",
+    "thumbnail": "https://i.imgur.com/vMHjP3e.jpg"
+  },
+  {
+    "name": "Synttäripizza",
+    "description": "Tämä herkku vie kielen mennessään! Edes kuski ei tätä herkkua pysty vastustamaan, vaan saattaa olla että pizza saapuu perille osittain syötynä, mutta huoli pois! Tässä on silti jäljellä enemmän kuin tarpeeksi henkilön kun henkilön nälän siirtämiseen.",
+    "toppings": "Ananas, Kebab, Parsa ja Sipuli",
+    "image": "https://i.imgur.com/o9Kg6G7.jpg",
+    "thumbnail": "https://i.imgur.com/JRDUAr9.jpg"
+  },
+  {
+    "name": "Överi",
+    "description": "Tästä makunystyröitä lempivästä makunautinnosta ei täytteitä uuvu! Meatlovers -ja vegepizzat kyllä jäävät tämän monsterin varjoon. Ei varmasti tarvitse santsata, yksi palanen riittää!",
+    "toppings": "Jauheliha, Pepperoni, Paprika, Ananas, Aurajuusto, Tonnikala, Herkkusieni, Katkarapu, Oliivi, Kinkku, Keltasipuli, Punasipuli ja Valkosipuli",
+    "image": "https://i.imgur.com/LXTcV4i.jpg",
+    "thumbnail": "https://i.imgur.com/KtGocRT.jpg"
+  },
+  {
+    "name": "Majopizza",
+    "description": "Majopizza on varma valinta niille, jotka eivät tykkää ruuastaan liian kuivana. Tämä herkullinen majoneesi combo ei tarvitse edes juomaa kaverikseen! Kaikki tämä unohtamatta lihan ystäviä, sillä pizza on viimeistelty rapeilla pepperoni viipaleilla. Namskis!",
+    "toppings": "Currymajoneesi, Kevytmajoneesi, Kurkkumajoneesi, Paprikamajoneesi, BBQ-kastike ja Pepperoni",
+    "image": "https://i.imgur.com/xjWJJVo.jpg",
+    "thumbnail": "https://i.imgur.com/ziNg6Cx.jpg"
+  }
+]

@@ -1,0 +1,25 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+
+.list-group-item {
+  background-color: transparent !important;
+}
+
+[data-theme="dark"] .card,
+[dark-theme="dark"] .dropdown-menu {
+  background-color: #282828 !important;
+}
